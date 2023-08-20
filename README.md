@@ -30,7 +30,7 @@ To dive into the world of Dasher, follow these simple steps:
 
 2. **Clone the Repository**: Clone the Dasher repository to your local machine using this command:
    ```
-   git clone https://github.com/your-username/Dasher.git
+   git clone https://github.com/Skofficial2007/Dasher.git
    ```
 
 
