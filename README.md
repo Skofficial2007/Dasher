@@ -22,6 +22,15 @@ Dasher boasts an array of features that contribute to its immersive gameplay:
 
 - **Progressive Challenge**: Each level introduces progressively challenging scenarios, keeping players engaged and motivated to master their skills.
 
+## Gameplay Preview
+
+Watch a brief gameplay preview to get a better feel for Dasher's exciting platformer action:
+
+<video width="560" height="315" controls>
+  <source src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/videos/your-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Getting Started
 
 To dive into the world of Dasher, follow these simple steps:
