@@ -26,10 +26,9 @@ Dasher boasts an array of features that contribute to its immersive gameplay:
 
 Watch a brief gameplay preview to get a better feel for Dasher's exciting platformer action:
 
-<video width="560" height="315" controls>
-  <source src="https://raw.githubusercontent.com/Skofficial2007/Dasher/main/Dasher/GamePlay_Preview/Dasher.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Gameplay Preview](https://imgur.com/la7y6Bz)](https://imgur.com/la7y6Bz)
+
+Click the image above to view the gameplay preview on Imgur.
 
 ## Getting Started
 
