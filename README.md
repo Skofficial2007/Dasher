@@ -26,9 +26,7 @@ Dasher boasts an array of features that contribute to its immersive gameplay:
 
 Watch a brief gameplay preview to get a better feel for Dasher's exciting platformer action:
 
-[![Gameplay Preview](https://imgur.com/la7y6Bz)](https://imgur.com/la7y6Bz)
-
-Click the image above to view the gameplay preview on Imgur.
+![Dasher](https://github.com/Skofficial2007/Dasher/assets/94291950/72d55f16-21b9-4a8d-9a22-2dbbf86fb2ee)
 
 ## Getting Started
 
